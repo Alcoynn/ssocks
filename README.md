@@ -32,7 +32,7 @@ Building on linux:
 ```console
 mkdir build
 cd build
-cmake  -DCMAKE_C_FLAGS=-fcommon ..
+cmake -DCMAKE_C_FLAGS=-fcommon ..
 make
 ```
 
